@@ -40,3 +40,4 @@ This repository is licensed under the [MIT License](LICENSE).
 ---
 
 *Feel free to explore, learn, and contribute to the JavaScript Learning Space!*
+![JavaScript-Learning-Space](https://github.com/user-attachments/assets/caff3138-1814-4535-8fbe-c9a7f2ac3e6c)
