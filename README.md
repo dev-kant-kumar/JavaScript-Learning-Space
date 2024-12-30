@@ -1,3 +1,4 @@
+![JavaScript-Learning-Space](https://github.com/user-attachments/assets/caff3138-1814-4535-8fbe-c9a7f2ac3e6c)
 # JavaScript Learning Space
 
 Welcome to the **JavaScript Learning Space**! This repository serves as a comprehensive collection of my JavaScript learning journey, encompassing notes, code snippets, and projects from various resources.
